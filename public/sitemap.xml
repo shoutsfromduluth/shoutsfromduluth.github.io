@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://shoutsfromduluth.github.io/shoutsfromduluth/</loc>
+        <loc>https://shoutsfromduluth.github.io/</loc>
     </url>
     <url>
-        <loc>https://shoutsfromduluth.github.io/shoutsfromduluth/a-cold-spring/</loc>
+        <loc>https://shoutsfromduluth.github.io/a-cold-spring/</loc>
         <lastmod>2025-06-01</lastmod>
     </url>
     <url>
-        <loc>https://shoutsfromduluth.github.io/shoutsfromduluth/chemin-de-fer/</loc>
+        <loc>https://shoutsfromduluth.github.io/chemin-de-fer/</loc>
         <lastmod>2025-06-01</lastmod>
+    </url>
+    <url>
+        <loc>https://shoutsfromduluth.github.io/lupines/</loc>
+        <lastmod>2025-06-02</lastmod>
     </url>
 </urlset>
