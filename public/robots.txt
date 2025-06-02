@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://shoutsfromduluth.github.io/sitemap.xml
+Sitemap: https://shoutsfromduluth.github.io/shoutsfromduluth/sitemap.xml
