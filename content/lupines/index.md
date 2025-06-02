@@ -18,6 +18,6 @@ ornamentals and escaped into the margins.
 Around Duluth I've not heard anyone talk of eradication, only appreciation.
 We'll be transplanting some into our gardens this summer.
 
-On a ride the other day I snapped this photo, the first lupines of the year.
+On a ride the other day I snapped this photo, the first lupine of the year.
 
 {{ resize_image(path='content/lupines/first_lupine.jpg', width=300, height=300, op="fit_width") }}
