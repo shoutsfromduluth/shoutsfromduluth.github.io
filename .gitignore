@@ -4,3 +4,15 @@ content/**/*.png
 content/**/*.JPG
 content/**/*.JPEG
 content/**/*.PNG
+public/**/*.jpg
+public/**/*.jpeg
+public/**/*.png
+public/**/*.JPG
+public/**/*.JPEG
+public/**/*.PNG
+!public/processed_images/*.jpg
+!public/processed_images/*.jpeg
+!public/processed_images/*.png
+!public/processed_images/*.JPG
+!public/processed_images/*.JPEG
+!public/processed_images/*.PNG
