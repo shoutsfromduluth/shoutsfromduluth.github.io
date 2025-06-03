@@ -16,3 +16,4 @@ public/**/*.PNG
 !public/processed_images/*.JPG
 !public/processed_images/*.JPEG
 !public/processed_images/*.PNG
+*.swp
