@@ -10,11 +10,12 @@ to poison wolves.
 
 I've [just
 learned](https://www.minnesotawildflowers.info/flower/large-leaved-lupine) that
-the lupines of Minnesota's north shore are invasive. ("ERADICATE!")
-Having recently moved here from the West where *Lupinus* is native and diverse,
-I was happy to see the big purple and pink masts in the ditches and puzzled
-over why they should exist out west and here but nowhere in between. Now I know
-that they were brought here as ornamentals and escaped into the margins.
+the lupines of Minnesota's north shore are invasive. ("ERADICATE!") Having
+recently moved here from the western U.S. where *Lupinus* is native and
+diverse, I was happy to see the big purple and pink masts in the ditches and
+puzzled over why they should exist out west and here but nowhere in between.
+Now I know that they were brought here as ornamentals and escaped into the
+margins.
 
 Around Duluth I've not heard anyone talk of eradication, only appreciation.
 We'll be planting some in our garden this year.
