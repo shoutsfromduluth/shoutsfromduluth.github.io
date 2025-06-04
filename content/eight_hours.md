@@ -5,8 +5,8 @@ date = "2025-06-03"
 
 I'm reading [How to Do
 Nothing](https://www.penguinrandomhouse.com/books/600671/how-to-do-nothing-by-jenny-odell/)
-by Jenny Odell. It has lots of things to like, like this song from the
-Federation of Organized Trades and Labor Unions:
+by Jenny Odell. It has lots to like, like this song from the Federation of
+Organized Trades and Labor Unions:
 
 <em>
 
