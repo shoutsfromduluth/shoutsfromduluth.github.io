@@ -1,6 +1,6 @@
 +++
 title = "Pope Pius VII"
-date = "2025-06-07"
+date = "2025-06-11"
 +++
 
 A quotation from 1950:
