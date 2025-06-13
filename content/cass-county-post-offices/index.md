@@ -150,3 +150,22 @@ Lothrop:
 > hit-and-miss pattern.
 
 I find this fascinating and hard to imagine.
+
+------------------------
+
+Further update: After finding the [Post Office Reports of Site
+Locations](https://www.archives.gov/research/post-offices/locations-1837-1950.html#minnesota)
+at the National Archives, I was able to locate most of the post offices by
+looking at the requests to establish each post office. Each lists the proposed
+location in terms of township, range, section, and corner. Below is a map. I
+may improve the map at some point, but I am mostly glad to have located most of
+the post offices. What I learned is that most of the ephemeral post offices
+opened in the more agricultural southwest part of the county, and that these
+post offices in particular seem to have closed soon after the establishment of
+free rural mail delivery. While determining the latitude and longitude
+associated with each location for mapping, it became clear that many of the
+post offices were just farmhouses. Some of which are still standing. I love
+this.
+
+{{ resize_image(path='content/cass-county-post-offices/post_office_map.png',
+width=1000, height=1000, op="fit_width") }}
