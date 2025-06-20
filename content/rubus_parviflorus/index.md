@@ -54,3 +54,11 @@ The flora says
 I'd like to know more about this biogeography. Why here?
 
 Also, why do they flower and bear fruit some years but not others?
+
+----
+
+Update: the biogeography of *R. parviflorus* seems to be similar to the Western
+North American - Great Lakes disjunction described in [this
+paper](https://www.journals.uchicago.edu/doi/abs/10.1086/721653?journalCode=ijps),
+although clearly *R. parviflorus* doesn't match the pattern of being a
+*threatened* relict population. I will read more.
