@@ -1,6 +1,6 @@
 +++
 title = "Donald Knuth's email"
-date = "2026-06-11"
+date = "2025-06-11"
 +++
 
 A [message](https://www-cs-faculty.stanford.edu/~knuth/email.html) from Donald Knuth:
