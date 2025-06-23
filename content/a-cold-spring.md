@@ -32,9 +32,9 @@ The infant oak-leaves swung through the sober oak.
 Song-sparrows were wound up for the summer,  
 and in the maple the complementary cardinal  
 cracked a whip, and the sleeper awoke,  
-stretching miles of green limbs from the south.  <span style="color: #ff0000">&#8592; YOU ARE HERE.</span>  
+stretching miles of green limbs from the south.  
 In his cap the lilacs whitened,  
-then one day they fell like snow.  
+then one day they fell like snow.  <span style="color: #ff0000">&#8592; YOU ARE HERE.</span>  
   
 Now, in the evening,  
 a new moon comes.  
