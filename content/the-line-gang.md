@@ -21,5 +21,5 @@ They bring the telephone and telegraph.
 
 [*On my bike rides outside of Duluth I pass the fiberoptic line gangs bringing
 gigabits to the rural roads. What was life in rural areas like before the
-telephone?*]
+telephone? Curmudgeonly Frost seems to think it much better. I'm not sure.*]
 
