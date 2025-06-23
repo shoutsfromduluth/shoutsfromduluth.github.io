@@ -5,8 +5,8 @@ date = "2025-06-02"
 Lupines, big-leafed lupine, *Lupinus polyphyllus*, supposedly pronounced
 "LEW-pin" but everyone I know says "LEW-pine".
 [Apparently](https://en.wiktionary.org/wiki/lupin#English) named for a
-fang-like structure in the inner flower. I once read that they were once used
-to poison wolves.
+fang-like structure in the inner flower. I think I read that they were once
+used to poison wolves.
 
 I've [just
 learned](https://www.minnesotawildflowers.info/flower/large-leaved-lupine) that
@@ -23,3 +23,5 @@ We'll be planting some in our garden this year.
 On a ride the other day I snapped this photo, the first lupine of the year.
 
 {{ resize_image(path='content/lupines/first_lupine.jpg', width=300, height=300, op="fit_width") }}
+
+I'll keep my eye out for *Lupinus perennis*, the local native lupine.
