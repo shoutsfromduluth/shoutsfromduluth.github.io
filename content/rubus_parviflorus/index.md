@@ -1,5 +1,5 @@
 +++
-title = "*Rubus parviflorus*"
+title = "<em>Rubus parviflorus</em>"
 date = "2025-06-17"
 +++
 

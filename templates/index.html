@@ -8,7 +8,7 @@
 <p> Shouts: </p>
 <ul>
   {% for page in section.pages %}
-  <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+  <li><a href="{{ page.permalink | safe }}">{{ page.title | safe}}</a></li>
   {% endfor %}
 </ul>
 {% endblock content %}
