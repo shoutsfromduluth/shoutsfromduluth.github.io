@@ -43,7 +43,7 @@ collected it on a Spanish botanical expedition. But then see this note:
 > parviflorus* and some using *Rubus nutkanus*.
 
 Indeed the Flora of North America [makes no
-mention(https://floranorthamerica.org/Rubus_parviflorus)] of *R. nutkanus*. I
+mention](https://floranorthamerica.org/Rubus_parviflorus) of *R. nutkanus*. I
 like *parviflorus* because of the flower size inaccuracy.
 
 The flora says
