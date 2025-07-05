@@ -42,9 +42,9 @@ collected it on a Spanish botanical expedition. But then see this note:
 > of this is that for some period of time we will find some floras using *Rubus
 > parviflorus* and some using *Rubus nutkanus*.
 
-Sure enough, the Flora of North America [doesn't
-mention](https://floranorthamerica.org/Rubus_parviflorus) *R. nutkanus*
-anywhere. I like *parviflorus* because of the flower size inaccuracy.
+Indeed the Flora of North America [makes no
+mention(https://floranorthamerica.org/Rubus_parviflorus)] of *R. nutkanus*. I
+like *parviflorus* because of the flower size inaccuracy.
 
 The flora says
 
@@ -61,4 +61,5 @@ Update: the biogeography of *R. parviflorus* seems to be similar to the Western
 North American - Great Lakes disjunction described in [this
 paper](https://www.journals.uchicago.edu/doi/abs/10.1086/721653?journalCode=ijps),
 although clearly *R. parviflorus* doesn't match the pattern of being a
-*threatened* relict population. I will read more.
+*threatened* relict population. I will read more from [this
+paper](https://www.sciencedirect.com/org/science/article/abs/pii/S1058589322000268)
