@@ -7,7 +7,7 @@ by Emily Dickinson
 
 Tell all the Truth but tell it slant—  
 Success in Circuit lies  
-Too bright for our inform Delight  
+Too bright for our infirm Delight  
 The Truth's superb surprise  
 
 As Lightning to the Children eased  
