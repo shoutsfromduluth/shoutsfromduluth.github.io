@@ -14,5 +14,5 @@ stirred by the fan's four
 slow-moving spoons; under the house the stone  
 has its feet in deep water.  
 Outside, even the sun god, dressed in this life  
-as a lizard, aburptly rises  
+as a lizard, abruptly rises  
 on stiff legs and descends blasé toward the shadows.  
