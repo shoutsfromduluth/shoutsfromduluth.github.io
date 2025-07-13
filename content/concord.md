@@ -3,9 +3,6 @@ title = "Concord"
 date = "2025-07-04"
 +++
 
-
-by Robert Lowell
-
 Ten thousand Fords are idle here in search  
 Of a tradition. Over these dry sticks—  
 The Minute Man, the Irish Catholics,  
@@ -20,3 +17,4 @@ Named all the birds without a gun to probe
 Through darkness to the painted man and bow:  
 The death-dance of King Philip and his scream  
 Whose echo girdled this imperfect globe.  
+{{author(author="Robert Lowell")}}

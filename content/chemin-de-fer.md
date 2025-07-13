@@ -3,7 +3,7 @@ title = "Chemin de Fer"
 date = "2025-06-01"
 +++
 
-You could say this poem by Elizabeth Bishop motivates this website.
+You could say this poem motivates this website.
 
 Alone on the railroad track  
 I walked with pounding heart.  
@@ -25,3 +25,4 @@ The pet hen went chook-chook.
 screamed the old hermit.  
 Across the pond an echo  
 tried and tried to confirm it.  
+{{author(author="Elizabeth Bishop")}}

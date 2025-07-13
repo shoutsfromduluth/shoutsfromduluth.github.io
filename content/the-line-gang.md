@@ -3,8 +3,6 @@ title = "The Line-Gang"
 date = "2025-06-22"
 +++
 
-by Robert Frost
-
 Here come the line-gang pioneering by.  
 They throw a forest down less cut than broken.  
 They plant dead trees for living, and the dead  
@@ -18,6 +16,7 @@ To hold it hard until they make it fast,
 To ease away—they have it. With a laugh,  
 An oath of towns that set the wild at naught  
 They bring the telephone and telegraph.  
+{{author(author="Robert Frost")}}
 
 [*On my bike rides outside of Duluth I pass the fiberoptic line gangs bringing
 gigabits to the rural roads. What was life in rural areas like before the

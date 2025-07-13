@@ -3,8 +3,6 @@ date = "2025-06-01"
 title = "A Cold Spring / The Spring-ometer"
 +++
 
-By Elizabeth Bishop
-
 A cold spring:  
 the violet was flawed on the lawn.  
 For two weeks or more the trees hesitated;  
@@ -34,7 +32,7 @@ and in the maple the complementary cardinal
 cracked a whip, and the sleeper awoke,  
 stretching miles of green limbs from the south.  
 In his cap the lilacs whitened,  
-then one day they fell like snow.  <span style="color: #ff0000">&#8592; YOU ARE HERE.</span>  
+then one day they fell like snow.  <!-- <span style="color: #ff0000">&#8592; YOU ARE HERE.</span> -->
   
 Now, in the evening,  
 a new moon comes.  
@@ -56,3 +54,4 @@ drifting simultaneously to the same height,
 And your shadowy pastures will be able to offer  
 these particular glowing tributes  
 every evening now throughout the summer.  
+{{author(author="Elizabeth Bishop")}}

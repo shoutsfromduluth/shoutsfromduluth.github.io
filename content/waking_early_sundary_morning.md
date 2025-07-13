@@ -3,9 +3,6 @@ title = "Waking Early Sunday Morning"
 date = "2025-07-04"
 +++
 
-by Robert Lowell
-
-
 Oh to break loose, like the chinook  
 salmon jumping and falling back,  
 nosing up to the impossible  
@@ -131,3 +128,4 @@ war—until the end of time
 to police the earth, a ghost  
 orbiting forever lost  
 in our monotonous sublime.   
+{{author(author="Robert Lowell")}}
