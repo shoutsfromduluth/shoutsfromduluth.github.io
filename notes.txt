@@ -1,3 +1,4 @@
 - em space: unicode 2014
 - non-breaking space (do this before adding trailing two-spaces): unicode 00a0
+   (use s/  /<enter two non-breaking spaces here>/)
 - use the "poem" snippet, or add {{author(author="AUTHOR")}} shortcode
